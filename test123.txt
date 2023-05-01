@@ -1,6 +1,3 @@
 hello everyone
-<<<<<<< HEAD
-how is it going?
-=======
 how are you?
->>>>>>> d07fb282adb0f2f2b0cd2c0272f5298b93b54c41
+
